@@ -6,18 +6,26 @@ const { statisticRouter } = require("./Router/Statistics.Router");
 const { barChartRouter } = require("./Router/BarChart.Router");
 const { pieChartRouter } = require("./Router/PieChart.Router");
 
-
 const app = express();
 
 app.use(express.json());
 
+const fs = require("fs");
+
 
 app.get("/", (req, res) => {
-  res.send("Home Page");
+  fs.readFile("documentation.txt", "utf-8", (err, data) => {
+    if (err) {
+      console.log(err);
+    } else {
+      res.send(data);
+    }
+  });
+ 
 });
 
-app.use("/",transactionRouter );
-app.use("/",statisticRouter );
+app.use("/", transactionRouter);
+app.use("/", statisticRouter);
 app.use("/", barChartRouter);
 app.use("/", pieChartRouter);
 
