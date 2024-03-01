@@ -11,16 +11,8 @@
 <h1>Backend Deployment Link </h1>
 
 https://lazy-lingerie-frog.cyclic.app/
+![Capture 1](https://github.com/charchit07/roxiler-system/assets/110049484/f12ac199-bf39-4b06-b0a0-94e842893fc4)
 
-
-<h1>Frontend Deployment Link </h1>
-
-https://friendly-sorbet-912886.netlify.app/
-
-
-<h1>Logo</h1>
-
-![sss](https://user-images.githubusercontent.com/110049484/221616098-49dc4b14-adb3-4276-a83a-435be3fdb5e9.png)
 
 
 <h1>Home Page</h1>
