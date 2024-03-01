@@ -11,13 +11,31 @@
 <h1>Backend Deployment Link </h1>
 
 https://lazy-lingerie-frog.cyclic.app/
+
+
 ![Capture 1](https://github.com/charchit07/roxiler-system/assets/110049484/f12ac199-bf39-4b06-b0a0-94e842893fc4)
 
+1. GET
+Create API to initialize the database. fetch the JSON from the third party API and
+initialize the database with seed data. You are free to define your own efficient table /
+collection structure
 
+2. <h2> Create an API to list the all transactions </h2>
+<h1> Transaction.Router.js</h1>
 
-<h1>Home Page</h1>
+![Capture2](https://github.com/charchit07/roxiler-system/assets/110049484/eea87848-61b6-44ec-91b9-e85d208565a0)
 
-![Home Page](https://user-images.githubusercontent.com/110049484/221607896-5be7bcbf-4dfc-483a-be75-8f2042876b71.PNG)
+<h1>Search By pagination </h1>
+
+![Capture3](https://github.com/charchit07/roxiler-system/assets/110049484/01505911-8b5b-4598-8a39-0036181377b4)
+
+<h1>Search By pagination with title  </h1>
+
+![Capture4](https://github.com/charchit07/roxiler-system/assets/110049484/7df9a75b-959f-45ca-a5ff-1197b8fb4a1c)
+
+<h1>Search By pagination with price  </h1>
+
+![Capture5](https://github.com/charchit07/roxiler-system/assets/110049484/242f0603-0b0e-479e-8719-9c442043d576)
 
 
 <h1>SignUp Page</h1>
