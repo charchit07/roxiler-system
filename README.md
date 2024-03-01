@@ -19,6 +19,8 @@ https://lazy-lingerie-frog.cyclic.app/
 initialize the database with seed data. You are free to define your own efficient table /
 collection structure </h3>
 
+<h3> message: "Database initialized with seed data" </h3>
+
 
 <h3>2. Create an API to list the all transactions </h3>
 <h3> Transaction.Router.js</h3>
