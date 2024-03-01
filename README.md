@@ -15,11 +15,13 @@ https://lazy-lingerie-frog.cyclic.app/
 
 ![Capture 1](https://github.com/charchit07/roxiler-system/assets/110049484/f12ac199-bf39-4b06-b0a0-94e842893fc4)
 
+
  <h3>1. GET Create API to initialize the database. fetch the JSON from the third party API and
 initialize the database with seed data. You are free to define your own efficient table /
 collection structure </h3>
 
 <h3> message: "Database initialized with seed data" </h3>
+
 
 
 <h3>2. Create an API to list the all transactions </h3>
@@ -31,19 +33,22 @@ collection structure </h3>
 
 ![Capture3](https://github.com/charchit07/roxiler-system/assets/110049484/01505911-8b5b-4598-8a39-0036181377b4)
 
-<h3>Search By pagination with title  </h3>
+<h3>Search By Pagination With Title  </h3>
 
 ![Capture4](https://github.com/charchit07/roxiler-system/assets/110049484/7df9a75b-959f-45ca-a5ff-1197b8fb4a1c)
 
-<h3>Search By pagination with price  </h3>
+
+<h3>Search By Pagination With Price  </h3>
 
 ![Capture5](https://github.com/charchit07/roxiler-system/assets/110049484/242f0603-0b0e-479e-8719-9c442043d576)
+
 
 
 <h3>3. GET Create an API for statistics</h3>
 <h3> Statistics.Router.js</h3>
 
 ![Capture6](https://github.com/charchit07/roxiler-system/assets/110049484/df75e287-a8cb-4593-8a7b-99965bca2f49)
+
 
 
 <h3>4. GET Create an API for bar chart ( the response should contain price range and the number
