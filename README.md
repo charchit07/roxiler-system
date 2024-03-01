@@ -29,18 +29,29 @@ collection structure </h3>
 
 ![Capture2](https://github.com/charchit07/roxiler-system/assets/110049484/eea87848-61b6-44ec-91b9-e85d208565a0)
 
+
+
 <h3>Search By pagination </h3>
 
 ![Capture3](https://github.com/charchit07/roxiler-system/assets/110049484/01505911-8b5b-4598-8a39-0036181377b4)
+
+
+
 
 <h3>Search By Pagination With Title  </h3>
 
 ![Capture4](https://github.com/charchit07/roxiler-system/assets/110049484/7df9a75b-959f-45ca-a5ff-1197b8fb4a1c)
 
 
+
+
+
 <h3>Search By Pagination With Price  </h3>
 
 ![Capture5](https://github.com/charchit07/roxiler-system/assets/110049484/242f0603-0b0e-479e-8719-9c442043d576)
+
+
+
 
 
 
@@ -51,12 +62,19 @@ collection structure </h3>
 
 
 
+
+
+
+
 <h3>4. GET Create an API for bar chart ( the response should contain price range and the number
 of items in that range for the selected month regardless of the year )</h3>
 
 <h3> BarChart.Router.js</h3>
 
 ![Capture7](https://github.com/charchit07/roxiler-system/assets/110049484/7ec5c601-efcf-413e-b8df-58fdc4453a92)
+
+
+
 
 
 
