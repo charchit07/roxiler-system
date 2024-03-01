@@ -2,18 +2,15 @@
 
 <h1>About</h1>
 
-<h3>Syntra is a major Indian Fashion e-Commerce Company. Syntra launched an express delivery service on its app to offer one of a kind of experience by fashion & beauty platform. This service allow shoppers to receive their orders for products.</h3>
+<h3> It's the Transaction Details App Having Statistics, Barchart And PieChart</h3>
 
+<h1>Tech Stack For Backend :</h1> <h3>NodeJs, Express, Mongoose, Mongodb </h3>
 
-<h1>Tech Stack For Frontend :</h1> <h3>React, Redux, Axios, Chakra UI</h3>
-
-<h1>Tech Stack For Backend :</h1> <h3>NodeJs, Mongoose, Express, Cors, Jwt , Bcrypt</h3>
-
-<h1>Features :</h1> <h3>Home Page,Login/Signup Page, Products Page, SingleProducts Page,Wishlist Page, Cart Page,Checkout Page  we added  to our website</h3>
+<h1>Features:</h1> <h3>Transaction Router, Statistics Router, BarChart Router, Pie Chart Router, Cart Page</h3>
 
 <h1>Backend Deployment Link </h1>
 
-https://calm-cyan-octopus-wear.cyclic.app
+https://lazy-lingerie-frog.cyclic.app/
 
 
 <h1>Frontend Deployment Link </h1>
