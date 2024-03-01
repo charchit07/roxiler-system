@@ -15,12 +15,12 @@ https://lazy-lingerie-frog.cyclic.app/
 
 ![Capture 1](https://github.com/charchit07/roxiler-system/assets/110049484/f12ac199-bf39-4b06-b0a0-94e842893fc4)
 
-1. GET
-Create API to initialize the database. fetch the JSON from the third party API and
+ <h1>1. GET Create API to initialize the database. fetch the JSON from the third party API and
 initialize the database with seed data. You are free to define your own efficient table /
-collection structure
+collection structure </h1>
 
-2. <h2> Create an API to list the all transactions </h2>
+
+<h2>2. Create an API to list the all transactions </h2>
 <h1> Transaction.Router.js</h1>
 
 ![Capture2](https://github.com/charchit07/roxiler-system/assets/110049484/eea87848-61b6-44ec-91b9-e85d208565a0)
@@ -38,47 +38,27 @@ collection structure
 ![Capture5](https://github.com/charchit07/roxiler-system/assets/110049484/242f0603-0b0e-479e-8719-9c442043d576)
 
 
-<h1>SignUp Page</h1>
+<h1>3. GET Create an API for statistics</h1>
+<h1> Statistics.Router.js</h1>
+
+![Capture6](https://github.com/charchit07/roxiler-system/assets/110049484/df75e287-a8cb-4593-8a7b-99965bca2f49)
 
 
-![Signup](https://user-images.githubusercontent.com/110049484/221609783-76412a0d-7d09-4980-847c-a3fb3af1130f.PNG)
+<h1>4. GET Create an API for bar chart ( the response should contain price range and the number
+of items in that range for the selected month regardless of the year )</h1>
 
+<h1> BarChart.Router.js</h1>
 
-
-<h1>Login Page</h1>
-
-![Login Page](https://user-images.githubusercontent.com/110049484/221609576-a114c587-b5d9-42f7-b409-6d3809d16855.PNG)
-
-
-<h1>Products Page</h1>
-
-![Products page](https://user-images.githubusercontent.com/110049484/221613408-0da1e4b1-cc7b-4444-88f7-49311829c192.PNG)
+![Capture7](https://github.com/charchit07/roxiler-system/assets/110049484/7ec5c601-efcf-413e-b8df-58fdc4453a92)
 
 
 
-<h1>Single Products Page</h1>
+ <h1> 5. GET Create an API for pie chart Find unique categories and number of items from that
+category for the selected month regardless of the year. </h1>
 
-![Single Products Page](https://user-images.githubusercontent.com/110049484/221613627-48a56731-01dc-4d0e-9dcc-eb5b4e238f2a.PNG)
+<h1> PieChart.Router.js</h1>
 
-
-
-<h1>Wishlist Page</h1>
-
-![wishlist Page](https://user-images.githubusercontent.com/110049484/221613776-575ab916-8872-491a-866f-0bb33aa1b268.PNG)
-
-
-
-<h1>Cart Page</h1>
-
-
-![bags](https://user-images.githubusercontent.com/110049484/221614176-7e6ab6c8-ffd3-4603-8308-854e35829813.PNG)
-
-
-
-
-<h1>Checkout Page</h1>
-
-![Checkout Page](https://user-images.githubusercontent.com/110049484/221614376-6c006498-f262-4134-a9ad-0892b17e3f79.PNG)
+![Capture8](https://github.com/charchit07/roxiler-system/assets/110049484/b38e79e2-bd56-4d30-aa1b-7eb4c229fe05)
 
 
 
